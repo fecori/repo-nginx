@@ -1,1 +1,1 @@
-<?php phpinfo(); ?>
+prueba desde repositorio
